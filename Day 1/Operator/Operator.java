@@ -7,7 +7,7 @@ public class Operator {
             boolean bool2 = false;
             boolean bool3 = true;
             //Arithematic : Modulus operator
-            System.out.println("Arithematic");
+            System.out.println("Arithmetic");
             System.out.println(intVal + " % " + floatVal + " = " + (intVal % floatVal));
             System.out.println();
             // Stirng concatenation: Obsereve the difference
