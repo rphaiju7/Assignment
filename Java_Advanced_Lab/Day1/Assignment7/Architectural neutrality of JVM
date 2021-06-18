@@ -1,0 +1,8 @@
+Q1. What is done in Step A to get .class files?
+Ans: Compiled using javac compiler
+Q2. .class files are also known as ? Are the .class files platform independent
+(Yes/No)?
+Ans: Bytecode, Yes
+Q3. Which software is used at B1, B2, B3 to deploy WellsBank software? Is the
+software platform independent (Yes/No)?
+Ans: Any of them using JVM. Yes.
